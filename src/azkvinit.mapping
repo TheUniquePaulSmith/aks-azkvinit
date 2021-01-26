@@ -1,0 +1,4 @@
+Secret1=/var/secrets/secret1.txt
+Secret2=/var/secrets/secret2.bin
+Secret3=/var/secrets/secret3.config
+PostGresConnectionString=/var/secrets/db.config
